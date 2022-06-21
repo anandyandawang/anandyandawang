@@ -9,7 +9,7 @@ I'm Andy! I enjoy being a tinkerer - building cool projects and breaking even co
 - Cat 🐈 lover! Adopting some very fluffy cats soon
 
 ### Links 🔗
-[LinkedIn](https://www.linkedin.com/in/anandyandawang/) | [Website](https://www.anandyandawang.com/)
+[Email](mailto:a93wang@uwaterloo.ca) | [LinkedIn](https://www.linkedin.com/in/anandyandawang/) | [Website](https://www.anandyandawang.com/)
 
 ### Thanks for visiting!
 ![clap-cat](https://user-images.githubusercontent.com/35669312/174689230-d9e2095b-e18c-4751-a539-f791c3a79ea2.gif)
