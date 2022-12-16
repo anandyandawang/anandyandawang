@@ -5,6 +5,7 @@ I'm Andy! I enjoy being a tinkerer - building cool projects and breaking even co
 ### About me 🤓
 - Currently working remotely at Extend 💳 as a Backend Engineer
 - Graduated from CS'22 at UWaterloo 🦆 - previously SE'22
+- libGDX 🎮 + Kotlin enthusiast!
 - Playing **a lot** of badminton 🏸 at UWBC
 - Cat 🐈 lover! Adopting some very fluffy cats soon
 
