@@ -1,1 +1,1 @@
-![cat workout and giveup](https://github.com/user-attachments/assets/ce75d6e1-ffcf-425d-a415-58bd0dc81755)
+![cat workout and giveup](https://github.com/user-attachments/assets/590f147b-d63a-4cc4-808d-eac35b095ff7)
